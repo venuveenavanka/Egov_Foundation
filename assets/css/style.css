@@ -857,7 +857,7 @@ footer p {
     margin: 4px 0;
   }
   .approaches-inner-card {
-    height: 380px; /* Shorter cards on mobile */
+    height: 380px; 
     margin-top: 30px !important;
     margin-bottom: 30px;
   }
